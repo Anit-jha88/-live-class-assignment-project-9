@@ -27,7 +27,7 @@ A  Api  landing page created using
 
 
 
-### [**Live link**](https://live-class-assignment-project-6.netlify.app/)
+### [**Live link**](https://live-class-assignment-project-9.netlify.app/)
 
 
 ![Project-9](./9.png)
